@@ -2,4 +2,4 @@ type,email,password,expectedMessage
 positive,test1@gmail.com,123456,,
 negative_empty_email,,123456,Wrong email or password
 negative_empty_password,test2@gmail.com,,Wrong email or password
-negative_email_without_symbol_@,test2gmail.com,123456,
+negative_email_without_symbol_@,test2gmail.com,123456,Wrong email or password

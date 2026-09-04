@@ -9,6 +9,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.logging.Logger;
 
 @Slf4j
@@ -20,29 +21,44 @@ public class WDlistener implements WebDriverListener {
 
     @Override
     public void beforeClick(WebElement element) {
-        System.out.println("Clicking on: " + element);
+   log.info("Clicking on: " + element);
     }
 
     @Override
     public void afterClick(WebElement element) {
-        System.out.println("Clicked on: " + element);
+      log.info("Clicked on: " + element);
     }
 
 
     @Override
     public void onError(Object target, Method method, Object[] args, InvocationTargetException e) {
-        System.out.println("ERROR: " + e.getTargetException());
-        WebDriver driver = (WebDriver) target;
 
-        File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        try {
-            Files.copy(src.toPath(),
-                    Paths.get("screenshots/error_" + System.currentTimeMillis() + ".png"));
-        } catch (IOException ex) {
-            ex.printStackTrace();
+        Throwable error = e.getTargetException();
+
+        log.error("❌ ERROR occurred during method: {}", method.getName());
+        log.error("➡️ Arguments: {}", Arrays.toString(args));
+        log.error("📝 Exception message: {}", error.getMessage());
+
+        if (target instanceof WebDriver) {
+            WebDriver driver = (WebDriver) target;
+
+
+            try {
+                String fileName = "screenshots/error_" + System.currentTimeMillis() + ".png";
+                File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+
+                Files.createDirectories(Paths.get("screenshots"));
+                Files.copy(src.toPath(), Paths.get(fileName));
+
+                log.error("📸 Screenshot saved: {}", fileName);
+
+            } catch (IOException ex) {
+                log.error("⚠️ Failed to save screenshot", ex);
+            }
+        } else {
+            log.warn("⚠️ Target is not WebDriver, screenshot skipped");
         }
     }
-
 
 
 

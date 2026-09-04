@@ -36,10 +36,10 @@ public class LoginRegistrationPage extends HelperUser {
         return this;
     }
 
-    public AddContact_page click_on_registration_btn() {
+    public void click_on_registration_btn() {
         registration_button.click();
         pause(4000);
-        return new AddContact_page(driver);
+
     }
 
     public void click_on_LOGIN_btn() {

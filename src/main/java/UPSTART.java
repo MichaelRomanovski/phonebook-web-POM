@@ -33,10 +33,10 @@ public class UPSTART {
 
         properties.load(new InputStreamReader(input, StandardCharsets.UTF_8));
 
-        WebDriver driver = new ChromeDriver();
+        wd = new ChromeDriver();
 
         WDlistener listener = new WDlistener();
-        wd = new EventFiringDecorator<>(listener).decorate(driver);
+        wd = new EventFiringDecorator<>(listener).decorate(wd);
 
         wd.navigate().to("https://telranedu.web.app/home");
         wd.manage().window().maximize();
