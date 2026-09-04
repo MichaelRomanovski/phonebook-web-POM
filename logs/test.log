@@ -1,0 +1,856 @@
+15:55:06.829 [Test worker] INFO  NGListener - Test started
+15:55:06.905 [Test worker] INFO  TestBase - Started test ---> testLogin
+15:55:06.908 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+15:55:06.911 [Test worker] INFO  TestBase - Finished test ---> testLogin
+15:55:06.914 [Test worker] INFO  TestBase - =====================================================================================================
+15:55:06.916 [Test worker] INFO  TestBase - Started test ---> testLogin
+15:55:06.918 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+15:55:06.920 [Test worker] INFO  TestBase - Finished test ---> testLogin
+15:55:06.922 [Test worker] INFO  TestBase - =====================================================================================================
+15:55:06.923 [Test worker] INFO  TestBase - Started test ---> testLogin
+15:55:06.925 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+15:55:06.929 [Test worker] INFO  TestBase - Finished test ---> testLogin
+15:55:06.929 [Test worker] INFO  TestBase - =====================================================================================================
+15:55:06.935 [Test worker] INFO  NGListener - Test finished
+16:16:38.572 [Test worker] INFO  NGListener - Test started
+16:16:38.647 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:16:38.656 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:16:38.662 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:16:38.662 [Test worker] INFO  TestBase - =====================================================================================================
+16:16:38.664 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:16:38.666 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:16:38.670 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:16:38.672 [Test worker] INFO  TestBase - =====================================================================================================
+16:16:38.674 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:16:38.677 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:16:38.690 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:16:38.690 [Test worker] INFO  TestBase - =====================================================================================================
+16:16:38.700 [Test worker] INFO  NGListener - Test finished
+16:21:39.638 [Test worker] INFO  NGListener - Test started
+16:21:39.734 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:21:39.740 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:21:39.744 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:21:39.744 [Test worker] INFO  TestBase - =====================================================================================================
+16:21:39.752 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:21:39.761 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:21:39.780 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:21:39.782 [Test worker] INFO  TestBase - =====================================================================================================
+16:21:39.786 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:21:39.793 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:21:39.805 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:21:39.807 [Test worker] INFO  TestBase - =====================================================================================================
+16:21:39.819 [Test worker] INFO  NGListener - Test finished
+16:27:21.940 [Test worker] INFO  NGListener - Test started
+16:27:22.087 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:27:22.100 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:27:22.104 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:27:22.105 [Test worker] INFO  TestBase - =====================================================================================================
+16:27:22.108 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:27:22.110 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:27:22.113 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:27:22.113 [Test worker] INFO  TestBase - =====================================================================================================
+16:27:22.115 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:27:22.117 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:27:22.120 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:27:22.121 [Test worker] INFO  TestBase - =====================================================================================================
+16:27:22.128 [Test worker] INFO  NGListener - Test finished
+16:43:54.705 [Test worker] INFO  NGListener - Test started
+16:43:54.780 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:43:57.900 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:43:57.900 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:43:57.916 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db708f5e471ada1aaa18e75257c885ea, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61216}, goog:processID: 20604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61216/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db708f5e471ada1aaa18e75257c885ea
+16:43:58.181 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443037920.png
+16:43:58.181 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:43:58.245 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //a[@href='/login']]
+16:43:58.355 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //a[@href='/login']]
+16:43:58.383 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //input[@name='email']]
+16:43:58.455 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //input[@name='email']]
+16:43:58.696 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //input[@name='password']]
+16:43:58.743 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //input[@name='password']]
+16:43:58.901 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //button[.='Login']]
+16:43:58.993 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (db708f5e471ada1aaa18e75257c885ea)] -> xpath: //button[.='Login']]
+16:44:03.056 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:44:03.057 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='CONTACTS']]
+16:44:03.060 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db708f5e471ada1aaa18e75257c885ea, findElement {using=xpath, value=//*[.='CONTACTS']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61216}, goog:processID: 20604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61216/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db708f5e471ada1aaa18e75257c885ea
+16:44:03.339 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443043072.png
+16:44:03.345 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db708f5e471ada1aaa18e75257c885ea, findElement {using=xpath, value=//*[.='CONTACTS']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61216}, goog:processID: 20604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61216/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db708f5e471ada1aaa18e75257c885ea
+16:44:03.353 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:44:03.353 [Test worker] INFO  TestBase - =====================================================================================================
+16:44:03.353 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:44:06.412 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:44:06.412 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:44:06.415 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db708f5e471ada1aaa18e75257c885ea, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61216}, goog:processID: 20604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61216/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db708f5e471ada1aaa18e75257c885ea
+16:44:06.755 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443046416.png
+16:44:06.757 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:44:06.763 [Test worker] INFO  NGListener - Success test ---> testLogin
+16:44:06.769 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:44:06.769 [Test worker] INFO  TestBase - =====================================================================================================
+16:44:06.773 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:44:09.815 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:44:09.815 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:44:09.815 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db708f5e471ada1aaa18e75257c885ea, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61216}, goog:processID: 20604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61216/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db708f5e471ada1aaa18e75257c885ea
+16:44:10.130 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443049815.png
+16:44:10.132 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:44:10.136 [Test worker] INFO  NGListener - Success test ---> testLogin
+16:44:10.141 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:44:10.143 [Test worker] INFO  TestBase - =====================================================================================================
+16:44:10.154 [Test worker] INFO  NGListener - Test finished
+16:50:12.022 [Test worker] INFO  NGListener - Test started
+16:50:12.123 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:50:15.245 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:50:15.268 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:50:15.295 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fabc6975ccc5863ec9f5c9230653a20a, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58774}, goog:processID: 8180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58774/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fabc6975ccc5863ec9f5c9230653a20a
+16:50:15.561 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443415297.png
+16:50:15.561 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:50:15.612 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //a[@href='/login']]
+16:50:15.697 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //a[@href='/login']]
+16:50:15.741 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //input[@name='email']]
+16:50:15.808 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //input[@name='email']]
+16:50:16.039 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //input[@name='password']]
+16:50:16.087 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //input[@name='password']]
+16:50:16.264 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //button[.='Login']]
+16:50:16.331 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (fabc6975ccc5863ec9f5c9230653a20a)] -> xpath: //button[.='Login']]
+16:50:20.381 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:50:20.382 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='CONTACTS']]
+16:50:20.384 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fabc6975ccc5863ec9f5c9230653a20a, findElement {using=xpath, value=//*[.='CONTACTS']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58774}, goog:processID: 8180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58774/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fabc6975ccc5863ec9f5c9230653a20a
+16:50:20.648 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443420389.png
+16:50:20.648 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fabc6975ccc5863ec9f5c9230653a20a, findElement {using=xpath, value=//*[.='CONTACTS']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58774}, goog:processID: 8180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58774/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fabc6975ccc5863ec9f5c9230653a20a
+16:50:20.665 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:50:20.667 [Test worker] INFO  TestBase - =====================================================================================================
+16:50:20.667 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:50:23.702 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:50:23.702 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:50:23.702 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fabc6975ccc5863ec9f5c9230653a20a, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58774}, goog:processID: 8180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58774/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fabc6975ccc5863ec9f5c9230653a20a
+16:50:24.000 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443423707.png
+16:50:24.000 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:50:24.003 [Test worker] INFO  NGListener - Success test ---> testLogin
+16:50:24.006 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:50:24.008 [Test worker] INFO  TestBase - =====================================================================================================
+16:50:24.012 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:50:27.031 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:50:27.031 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:50:27.031 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fabc6975ccc5863ec9f5c9230653a20a, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58774}, goog:processID: 8180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58774/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fabc6975ccc5863ec9f5c9230653a20a
+16:50:27.336 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443427035.png
+16:50:27.337 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:50:27.338 [Test worker] INFO  NGListener - Success test ---> testLogin
+16:50:27.343 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:50:27.343 [Test worker] INFO  TestBase - =====================================================================================================
+16:50:27.351 [Test worker] INFO  NGListener - Test finished
+16:51:02.146 [Test worker] INFO  NGListener - Test started
+16:51:02.258 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:51:05.383 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:51:05.393 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:51:05.404 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2d814bf9b88054e8573522f2dccdd1f, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56730}, goog:processID: 3940, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56730/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2d814bf9b88054e8573522f2dccdd1f
+16:51:05.704 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443465407.png
+16:51:05.704 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:51:05.754 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //a[@href='/login']]
+16:51:05.855 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //a[@href='/login']]
+16:51:05.889 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //input[@name='email']]
+16:51:05.959 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //input[@name='email']]
+16:51:06.202 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //input[@name='password']]
+16:51:06.256 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //input[@name='password']]
+16:51:06.406 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //button[.='Login']]
+16:51:06.481 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //button[.='Login']]
+16:51:10.702 [Test worker] INFO  NGListener - Success test ---> testLogin
+16:51:10.702 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:51:10.702 [Test worker] INFO  TestBase - =====================================================================================================
+16:51:10.702 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:51:10.751 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //*[.='Sign Out']]
+16:51:10.830 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (f2d814bf9b88054e8573522f2dccdd1f)] -> xpath: //*[.='Sign Out']]
+16:51:10.863 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:51:10.864 [Test worker] INFO  NGListener - Success test ---> testLogin
+16:51:10.866 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:51:10.868 [Test worker] INFO  TestBase - =====================================================================================================
+16:51:10.869 [Test worker] INFO  TestBase - Started test ---> testLogin
+16:51:13.931 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:51:13.931 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:51:13.931 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2d814bf9b88054e8573522f2dccdd1f, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56730}, goog:processID: 3940, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56730/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2d814bf9b88054e8573522f2dccdd1f
+16:51:14.267 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443473934.png
+16:51:14.270 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+16:51:14.273 [Test worker] INFO  NGListener - Success test ---> testLogin
+16:51:14.277 [Test worker] INFO  TestBase - Finished test ---> testLogin
+16:51:14.279 [Test worker] INFO  TestBase - =====================================================================================================
+16:51:14.287 [Test worker] INFO  NGListener - Test finished
+16:52:39.631 [Test worker] INFO  NGListener - Test started
+16:52:39.744 [Test worker] INFO  TestBase - Started test ---> testlogin
+16:52:42.875 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:52:42.877 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:52:42.885 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55ea5fa7654bf255fa1a6660e1d6b318, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, goog:processID: 6412, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55ea5fa7654bf255fa1a6660e1d6b318
+16:52:43.177 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443562885.png
+16:52:43.313 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+16:52:43.355 [Test worker] INFO  NGListener - Success test ---> testlogin
+16:52:43.363 [Test worker] INFO  TestBase - Finished test ---> testlogin
+16:52:43.363 [Test worker] INFO  TestBase - =====================================================================================================
+16:52:43.366 [Test worker] INFO  TestBase - Started test ---> testlogin
+16:52:46.409 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:52:46.409 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:52:46.409 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55ea5fa7654bf255fa1a6660e1d6b318, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, goog:processID: 6412, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55ea5fa7654bf255fa1a6660e1d6b318
+16:52:46.661 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443566422.png
+16:52:46.781 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+16:52:46.828 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //a[@href='/login']]
+16:52:46.945 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //a[@href='/login']]
+16:52:46.982 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='email']]
+16:52:47.047 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='email']]
+16:52:47.216 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='password']]
+16:52:47.278 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='password']]
+16:52:47.421 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //button[.='Login']]
+16:52:47.476 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //button[.='Login']]
+16:52:51.627 [Test worker] INFO  NGListener - Success test ---> testlogin
+16:52:51.631 [Test worker] INFO  TestBase - Finished test ---> testlogin
+16:52:51.631 [Test worker] INFO  TestBase - =====================================================================================================
+16:52:51.636 [Test worker] INFO  TestBase - Started test ---> testlogin
+16:52:54.710 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:52:54.710 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:52:54.712 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55ea5fa7654bf255fa1a6660e1d6b318, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, goog:processID: 6412, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55ea5fa7654bf255fa1a6660e1d6b318
+16:52:54.960 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443574713.png
+16:52:55.183 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+16:52:55.244 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //a[@href='/login']]
+16:52:55.366 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //a[@href='/login']]
+16:52:55.403 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='email']]
+16:52:55.502 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='email']]
+16:52:55.678 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='password']]
+16:52:55.749 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //input[@name='password']]
+16:52:55.904 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //button[.='Login']]
+16:52:55.995 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (55ea5fa7654bf255fa1a6660e1d6b318)] -> xpath: //button[.='Login']]
+16:53:00.096 [Test worker] INFO  NGListener - Success test ---> testlogin
+16:53:00.098 [Test worker] INFO  TestBase - Finished test ---> testlogin
+16:53:00.101 [Test worker] INFO  TestBase - =====================================================================================================
+16:53:00.110 [Test worker] INFO  NGListener - Test finished
+16:56:09.204 [Test worker] INFO  NGListener - Test started
+16:56:09.350 [Test worker] INFO  TestBase - Started test ---> testRegistration
+16:56:12.435 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:56:12.446 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:56:12.446 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:12.739 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443772451.png
+16:56:12.870 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+16:56:12.874 [Test worker] INFO  NGListener - Success test ---> testRegistration
+16:56:12.876 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+16:56:12.878 [Test worker] INFO  TestBase - =====================================================================================================
+16:56:12.880 [Test worker] INFO  TestBase - Started test ---> testRegistration
+16:56:15.927 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:56:15.927 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:56:15.927 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:16.156 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443775934.png
+16:56:16.261 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+16:56:19.322 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:56:19.322 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //input[@name='email']]
+16:56:19.322 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:19.578 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443779322.png
+16:56:19.580 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:19.589 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+16:56:19.591 [Test worker] INFO  TestBase - =====================================================================================================
+16:56:19.594 [Test worker] INFO  TestBase - Started test ---> testRegistration
+16:56:22.631 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:56:22.641 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:56:22.654 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:23.221 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443782671.png
+16:56:23.401 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+16:56:26.440 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:56:26.440 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //input[@name='email']]
+16:56:26.440 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:26.751 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443786443.png
+16:56:26.753 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:26.758 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+16:56:26.758 [Test worker] INFO  TestBase - =====================================================================================================
+16:56:26.762 [Test worker] INFO  TestBase - Started test ---> testRegistration
+16:56:29.823 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:56:29.823 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+16:56:29.823 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:30.049 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443789823.png
+16:56:30.157 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+16:56:33.226 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+16:56:33.226 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //input[@name='email']]
+16:56:33.226 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:33.469 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788443793226.png
+16:56:33.469 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37ab670e30599da4d645673306dafa28, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56267}, goog:processID: 7936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56267/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab670e30599da4d645673306dafa28
+16:56:33.469 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+16:56:33.469 [Test worker] INFO  TestBase - =====================================================================================================
+16:56:33.476 [Test worker] INFO  NGListener - Test finished
+17:01:13.575 [Test worker] INFO  NGListener - Test started
+17:01:13.685 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:01:16.736 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:01:16.738 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:01:16.743 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [746115768829abeb1054557590a36f12, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51351}, goog:processID: 3596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51351/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 746115768829abeb1054557590a36f12
+17:01:17.089 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444076745.png
+17:01:17.154 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:17.275 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:17.415 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:01:17.421 [Test worker] INFO  NGListener - Success test ---> testRegistration
+17:01:17.422 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:01:17.422 [Test worker] INFO  TestBase - =====================================================================================================
+17:01:17.422 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:01:20.491 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:01:20.497 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:01:20.499 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [746115768829abeb1054557590a36f12, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51351}, goog:processID: 3596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51351/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 746115768829abeb1054557590a36f12
+17:01:20.758 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444080499.png
+17:01:20.788 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:20.851 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:20.981 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:01:21.040 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='email']]
+17:01:21.111 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='email']]
+17:01:21.251 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='password']]
+17:01:21.316 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='password']]
+17:01:21.453 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //button[.='Registration']]
+17:01:21.510 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //button[.='Registration']]
+17:01:25.619 [Test worker] INFO  NGListener - Success test ---> testRegistration
+17:01:25.628 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:01:25.628 [Test worker] INFO  TestBase - =====================================================================================================
+17:01:25.631 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:01:28.667 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:01:28.667 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:01:28.667 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [746115768829abeb1054557590a36f12, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51351}, goog:processID: 3596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51351/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 746115768829abeb1054557590a36f12
+17:01:28.919 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444088671.png
+17:01:28.944 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:29.018 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:29.166 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:01:29.232 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='email']]
+17:01:29.332 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='email']]
+17:01:29.515 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='password']]
+17:01:29.582 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='password']]
+17:01:29.708 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //button[.='Registration']]
+17:01:29.804 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //button[.='Registration']]
+17:01:33.933 [Test worker] INFO  NGListener - Success test ---> testRegistration
+17:01:33.934 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:01:33.935 [Test worker] INFO  TestBase - =====================================================================================================
+17:01:33.937 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:01:36.958 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:01:36.958 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:01:36.958 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [746115768829abeb1054557590a36f12, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51351}, goog:processID: 3596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51351/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 746115768829abeb1054557590a36f12
+17:01:37.182 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444096968.png
+17:01:37.199 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:37.251 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //a[@href='/login']]
+17:01:37.382 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:01:37.436 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='email']]
+17:01:37.566 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='email']]
+17:01:37.763 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='password']]
+17:01:37.818 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //input[@name='password']]
+17:01:37.941 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //button[.='Registration']]
+17:01:38.011 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (746115768829abeb1054557590a36f12)] -> xpath: //button[.='Registration']]
+17:01:42.363 [Test worker] INFO  NGListener - Success test ---> testRegistration
+17:01:42.363 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:01:42.365 [Test worker] INFO  TestBase - =====================================================================================================
+17:01:42.373 [Test worker] INFO  NGListener - Test finished
+17:11:17.803 [Test worker] INFO  NGListener - Test started
+17:11:17.913 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:11:21.101 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:11:21.101 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:11:21.113 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:21.476 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444681116.png
+17:11:21.623 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:11:21.672 [Test worker] INFO  NGListener - Success test ---> testRegistration
+17:11:21.677 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:11:21.677 [Test worker] INFO  TestBase - =====================================================================================================
+17:11:21.680 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:11:24.755 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:11:24.755 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:11:24.755 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:25.035 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444684764.png
+17:11:25.149 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:11:25.197 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //a[@href='/login']]
+17:11:25.289 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //a[@href='/login']]
+17:11:25.320 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='email']]
+17:11:25.382 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='email']]
+17:11:25.546 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='password']]
+17:11:25.604 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='password']]
+17:11:25.744 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //button[.='Login']]
+17:11:25.809 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //button[.='Login']]
+17:11:29.837 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: getCurrentUrl
+17:11:29.838 [Test worker] ERROR WDlistener - ➡️ Arguments: null
+17:11:29.842 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:30.167 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444689847.png
+17:11:30.167 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:30.172 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:11:30.172 [Test worker] INFO  TestBase - =====================================================================================================
+17:11:30.172 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:11:33.228 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:11:33.228 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:11:33.228 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:33.479 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444693228.png
+17:11:33.612 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:11:33.676 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //a[@href='/login']]
+17:11:33.774 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //a[@href='/login']]
+17:11:33.810 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='email']]
+17:11:33.888 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='email']]
+17:11:34.075 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='password']]
+17:11:34.143 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='password']]
+17:11:34.267 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //button[.='Login']]
+17:11:34.339 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //button[.='Login']]
+17:11:38.352 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: getCurrentUrl
+17:11:38.353 [Test worker] ERROR WDlistener - ➡️ Arguments: null
+17:11:38.353 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:38.616 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444698358.png
+17:11:38.617 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:38.619 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:11:38.619 [Test worker] INFO  TestBase - =====================================================================================================
+17:11:38.620 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:11:41.679 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:11:41.679 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:11:41.679 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:41.917 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444701695.png
+17:11:42.037 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:11:42.072 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //a[@href='/login']]
+17:11:42.147 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //a[@href='/login']]
+17:11:42.169 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='email']]
+17:11:42.247 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='email']]
+17:11:42.379 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='password']]
+17:11:42.425 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //input[@name='password']]
+17:11:42.530 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //button[.='Login']]
+17:11:42.582 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (d7abd46f5f53e3ffacc7d2cd90a701c3)] -> xpath: //button[.='Login']]
+17:11:46.601 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: getCurrentUrl
+17:11:46.601 [Test worker] ERROR WDlistener - ➡️ Arguments: null
+17:11:46.606 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:46.905 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788444706613.png
+17:11:46.907 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7abd46f5f53e3ffacc7d2cd90a701c3, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53573}, goog:processID: 21680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53573/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7abd46f5f53e3ffacc7d2cd90a701c3
+17:11:46.910 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:11:46.910 [Test worker] INFO  TestBase - =====================================================================================================
+17:11:46.914 [Test worker] INFO  NGListener - Test finished
+17:17:20.545 [Test worker] INFO  NGListener - Test started
+17:17:20.665 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:17:23.827 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:17:23.827 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:17:23.827 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:24.153 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788445043827.png
+17:17:24.269 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:17:24.310 [Test worker] INFO  NGListener - Success test ---> testRegistration
+17:17:24.312 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:17:24.312 [Test worker] INFO  TestBase - =====================================================================================================
+17:17:24.312 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:17:27.387 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:17:27.387 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:17:27.387 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:27.668 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788445047387.png
+17:17:27.770 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:17:27.824 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //a[@href='/login']]
+17:17:27.913 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //a[@href='/login']]
+17:17:27.949 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='email']]
+17:17:28.010 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='email']]
+17:17:28.173 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='password']]
+17:17:28.221 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='password']]
+17:17:28.361 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //button[.='Login']]
+17:17:28.421 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //button[.='Login']]
+17:17:32.454 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: getCurrentUrl
+17:17:32.456 [Test worker] ERROR WDlistener - ➡️ Arguments: null
+17:17:32.458 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:32.774 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788445052459.png
+17:17:32.776 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:32.789 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:17:32.790 [Test worker] INFO  TestBase - =====================================================================================================
+17:17:32.793 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:17:35.830 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:17:35.830 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:17:35.831 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:36.069 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788445055834.png
+17:17:36.198 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:17:36.264 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //a[@href='/login']]
+17:17:36.369 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //a[@href='/login']]
+17:17:36.399 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='email']]
+17:17:36.473 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='email']]
+17:17:36.666 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='password']]
+17:17:36.740 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='password']]
+17:17:36.877 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //button[.='Login']]
+17:17:36.954 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //button[.='Login']]
+17:17:40.980 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: getCurrentUrl
+17:17:40.982 [Test worker] ERROR WDlistener - ➡️ Arguments: null
+17:17:40.984 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:41.229 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788445060987.png
+17:17:41.230 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:41.232 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:17:41.232 [Test worker] INFO  TestBase - =====================================================================================================
+17:17:41.235 [Test worker] INFO  TestBase - Started test ---> testRegistration
+17:17:44.304 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: findElement
+17:17:44.304 [Test worker] ERROR WDlistener - ➡️ Arguments: [By.xpath: //*[.='Sign Out']]
+17:17:44.304 [Test worker] ERROR WDlistener - 📝 Exception message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='Sign Out']"}
+  (Session info: chrome=152.0.7977.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, findElement {using=xpath, value=//*[.='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:44.528 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788445064315.png
+17:17:44.638 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+17:17:44.674 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //a[@href='/login']]
+17:17:44.744 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //a[@href='/login']]
+17:17:44.773 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='email']]
+17:17:44.841 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='email']]
+17:17:44.992 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='password']]
+17:17:45.042 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //input[@name='password']]
+17:17:45.142 [Test worker] INFO  WDlistener - Clicking on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //button[.='Login']]
+17:17:45.191 [Test worker] INFO  WDlistener - Clicked on: [[ChromeDriver: chrome on windows (68ab8b6bd69a4b2959c36b20e94799ee)] -> xpath: //button[.='Login']]
+17:17:49.240 [Test worker] ERROR WDlistener - ❌ ERROR occurred during method: getCurrentUrl
+17:17:49.243 [Test worker] ERROR WDlistener - ➡️ Arguments: null
+17:17:49.246 [Test worker] ERROR WDlistener - 📝 Exception message: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:49.585 [Test worker] ERROR WDlistener - 📸 Screenshot saved: screenshots/error_1788445069255.png
+17:17:49.585 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Wrong email or password}
+  (Session info: chrome=152.0.7977.76): Wrong email or password
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ab8b6bd69a4b2959c36b20e94799ee, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.76, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59033}, goog:processID: 20876, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59033/devtoo..., se:cdpVersion: 152.0.7977.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ab8b6bd69a4b2959c36b20e94799ee
+17:17:49.594 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+17:17:49.594 [Test worker] INFO  TestBase - =====================================================================================================
+17:17:49.605 [Test worker] INFO  NGListener - Test finished
